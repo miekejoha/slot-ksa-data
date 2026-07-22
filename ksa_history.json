@@ -1,0 +1,21 @@
+[
+  {
+    "datum": "2026-07-22",
+    "verdwenen": [
+      {
+        "slug": "vereniging-voor-dorpsbelangen-odoorn",
+        "naam": "Vereniging voor Dorpsbelangen Odoorn"
+      }
+    ],
+    "nieuw": [
+      {
+        "slug": "stichting-bibian-mentel-foundation",
+        "naam": "Stichting Bibian Mentel Foundation"
+      },
+      {
+        "slug": "van-rhijn-speelautomaten-b-v",
+        "naam": "Van Rhijn Speelautomaten B.V."
+      }
+    ]
+  }
+]
