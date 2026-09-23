@@ -107,7 +107,7 @@
     "id": "acs-gaming-b-v",
     "naam": "ACS Gaming B.V.",
     "kvk": "32117294",
-    "geldigTot": "12 september 2026",
+    "geldigTot": "12 september 2036",
     "typeKansspel": "Speelautomaat of speelcasino",
     "vergunningsoort": "Exploitatie speelautomaat"
   },
@@ -300,14 +300,6 @@
     "naam": "AvW Games",
     "kvk": "71702652",
     "geldigTot": "25 februari 2029",
-    "typeKansspel": "Speelautomaat of speelcasino",
-    "vergunningsoort": "Exploitatie speelautomaat"
-  },
-  {
-    "id": "aza-kansspelen",
-    "naam": "AZA kansspelen",
-    "kvk": "65517989",
-    "geldigTot": "08 september 2026",
     "typeKansspel": "Speelautomaat of speelcasino",
     "vergunningsoort": "Exploitatie speelautomaat"
   },
@@ -520,18 +512,18 @@
     "vergunningsoort": "Exploitatie speelautomaat"
   },
   {
-    "id": "c-b-a-automaten-b-v",
-    "naam": "C.B.A. Automaten B.V.",
-    "kvk": "33235613",
-    "geldigTot": "30 augustus 2030",
-    "typeKansspel": "Speelautomaat of speelcasino",
-    "vergunningsoort": "Exploitatie speelautomaat"
-  },
-  {
     "id": "c-f-poppenburg-automaten-b-v",
     "naam": "C.F. Poppenburg Automaten B.V.",
     "kvk": "34088233",
     "geldigTot": "01 juni 2031",
+    "typeKansspel": "Speelautomaat of speelcasino",
+    "vergunningsoort": "Exploitatie speelautomaat"
+  },
+  {
+    "id": "dutch-pinball-museum-b-v-2",
+    "naam": "Café Daniels",
+    "kvk": "30153825",
+    "geldigTot": "6 september 2036",
     "typeKansspel": "Speelautomaat of speelcasino",
     "vergunningsoort": "Exploitatie speelautomaat"
   },
@@ -776,14 +768,6 @@
     "vergunningsoort": "Exploitatie speelautomaat"
   },
   {
-    "id": "charlies-speelautomaten",
-    "naam": "Charlie’s Speelautomaten",
-    "kvk": "65899768",
-    "geldigTot": "30 januari 2033",
-    "typeKansspel": "Speelautomaat of speelcasino",
-    "vergunningsoort": "Exploitatie speelautomaat"
-  },
-  {
     "id": "cherry-games-exploitatie-b-v",
     "naam": "Cherry Games Exploitatie B.V.",
     "kvk": "02096256",
@@ -800,20 +784,20 @@
     "vergunningsoort": "Exploitatie speelautomaat"
   },
   {
-    "id": "city-amusement",
-    "naam": "City Amusement",
-    "kvk": "27096234",
-    "geldigTot": "01 juni 2031",
-    "typeKansspel": "Speelautomaat of speelcasino",
-    "vergunningsoort": "Exploitatie speelautomaat"
-  },
-  {
     "id": "ck-speelautomaten",
     "naam": "CK Speelautomaten",
     "kvk": "82511381",
     "geldigTot": "19 maart 2036",
     "typeKansspel": "Speelautomaat of speelcasino",
     "vergunningsoort": "Exploitatie speelautomaat"
+  },
+  {
+    "id": "classic-amusement",
+    "naam": "Classic Amusement",
+    "kvk": "42134732",
+    "geldigTot": "17 september 2036",
+    "typeKansspel": "Speelautomaat of speelcasino",
+    "vergunningsoort": "Exploitatie behendigheidsautomaten"
   },
   {
     "id": "coam-gaming-bv",
@@ -1064,14 +1048,6 @@
     "vergunningsoort": "Exploitatie speelautomaat"
   },
   {
-    "id": "diamond-games-b-v",
-    "naam": "Diamond Games B.V.",
-    "kvk": "66559472",
-    "geldigTot": "08 september 2026",
-    "typeKansspel": "Speelautomaat of speelcasino",
-    "vergunningsoort": "Exploitatie speelautomaat"
-  },
-  {
     "id": "dibo-speelautomaten",
     "naam": "Dibo Speelautomaten",
     "kvk": "38015968",
@@ -1134,6 +1110,14 @@
     "geldigTot": "29 januari 2029",
     "typeKansspel": "Speelautomaat of speelcasino",
     "vergunningsoort": "Exploitatie speelautomaat"
+  },
+  {
+    "id": "dutch-pinball-museum-b-v",
+    "naam": "Dutch Pinball Museum B.V.",
+    "kvk": "42063662",
+    "geldigTot": "23 augustus 2036",
+    "typeKansspel": "Speelautomaat of speelcasino",
+    "vergunningsoort": "Exploitatie behendigheidsautomaten"
   },
   {
     "id": "dutcharcade",
@@ -1220,14 +1204,6 @@
     "naam": "Entergaming Facilities B.V.",
     "kvk": "53437152",
     "geldigTot": "14 juni 2032",
-    "typeKansspel": "Speelautomaat of speelcasino",
-    "vergunningsoort": "Exploitatie speelautomaat"
-  },
-  {
-    "id": "entergaming-facilities-ii-b-v",
-    "naam": "Entergaming Facilities II B.V.",
-    "kvk": "63777827",
-    "geldigTot": "25 augustus 2026",
     "typeKansspel": "Speelautomaat of speelcasino",
     "vergunningsoort": "Exploitatie speelautomaat"
   },
@@ -1379,7 +1355,7 @@
     "id": "funplaza-winschoten-b-v",
     "naam": "Funplaza Winschoten B.V.",
     "kvk": "20131972",
-    "geldigTot": "09 augustus 2026",
+    "geldigTot": "09 augustus 2036",
     "typeKansspel": "Speelautomaat of speelcasino",
     "vergunningsoort": "Exploitatie speelautomaat"
   },
@@ -1704,22 +1680,6 @@
     "vergunningsoort": "Exploitatie speelautomaat"
   },
   {
-    "id": "hobea-speelautomaten-b-v",
-    "naam": "Hobea Speelautomaten B.V.",
-    "kvk": "24244766",
-    "geldigTot": "01 juni 2031",
-    "typeKansspel": "Speelautomaat of speelcasino",
-    "vergunningsoort": "Exploitatie speelautomaat"
-  },
-  {
-    "id": "hobea-speelautomaten-ii-b-v-te-schiedam",
-    "naam": "Hobea Speelautomaten II B.V. te Schiedam",
-    "kvk": "76211495",
-    "geldigTot": "11 februari 2030",
-    "typeKansspel": "Speelautomaat of speelcasino",
-    "vergunningsoort": "Exploitatie speelautomaat"
-  },
-  {
     "id": "hofex-gaming-b-v",
     "naam": "Hofex Gaming B.V.",
     "kvk": "56709951",
@@ -1739,7 +1699,7 @@
     "id": "hommerson-arcades-b-v",
     "naam": "Hommerson Arcades B.V.",
     "kvk": "27193798",
-    "geldigTot": "08 september 2026",
+    "geldigTot": "08 september 2036",
     "typeKansspel": "Speelautomaat of speelcasino",
     "vergunningsoort": "Exploitatie speelautomaat"
   },
@@ -2168,14 +2128,6 @@
     "vergunningsoort": "Exploitatie speelautomaat"
   },
   {
-    "id": "kosmos-speelautomaten-b-v",
-    "naam": "Kosmos Speelautomaten B.V",
-    "kvk": "24134021",
-    "geldigTot": "18 januari 2032",
-    "typeKansspel": "Speelautomaat of speelcasino",
-    "vergunningsoort": "Exploitatie speelautomaat"
-  },
-  {
     "id": "kragts-exploitatie",
     "naam": "KragtS Exploitatie",
     "kvk": "94242917",
@@ -2315,7 +2267,7 @@
     "id": "luckystar",
     "naam": "Luckystar",
     "kvk": "66128625",
-    "geldigTot": "25 augustus 2026",
+    "geldigTot": "24 augustus 2036",
     "typeKansspel": "Speelautomaat of speelcasino",
     "vergunningsoort": "Exploitatie speelautomaat"
   },
@@ -3448,14 +3400,6 @@
     "vergunningsoort": "Exploitatie speelautomaat"
   },
   {
-    "id": "toverland-b-v",
-    "naam": "Toverland B.V.",
-    "kvk": "14067923",
-    "geldigTot": "18 juli 2026",
-    "typeKansspel": "Speelautomaat of speelcasino",
-    "vergunningsoort": "Exploitatie speelautomaat"
-  },
-  {
     "id": "traarbach-speelautomaten-b-v",
     "naam": "Traarbach Speelautomaten B.V.",
     "kvk": "14050350",
@@ -3728,10 +3672,42 @@
     "vergunningsoort": "Exploitatie speelautomaat"
   },
   {
+    "id": "vof-baronie-gaming",
+    "naam": "VOF Baronie Gaming",
+    "kvk": "73636495",
+    "geldigTot": "25 juli 2029",
+    "typeKansspel": "Speelautomaat of speelcasino",
+    "vergunningsoort": "Exploitatie speelautomaat"
+  },
+  {
+    "id": "vollincks-automatenbedrijf",
+    "naam": "Völlinck’s Automatenbedrijf",
+    "kvk": "02329341",
+    "geldigTot": "01 juni 2031",
+    "typeKansspel": "Speelautomaat of speelcasino",
+    "vergunningsoort": "Exploitatie speelautomaat"
+  },
+  {
+    "id": "w-g-r-groep-b-v",
+    "naam": "W.G.R. Groep B.V.",
+    "kvk": "08093363",
+    "geldigTot": "19 december 2034",
+    "typeKansspel": "Speelautomaat of speelcasino",
+    "vergunningsoort": "Exploitatie speelautomaat"
+  },
+  {
+    "id": "w-j-onnes-holding-b-v",
+    "naam": "W.J. Onnes Holding B.V.",
+    "kvk": "02051411",
+    "geldigTot": "27 maart 2032",
+    "typeKansspel": "Speelautomaat of speelcasino",
+    "vergunningsoort": "Exploitatie speelautomaat"
+  },
+  {
     "id": "c-v-entergaming-facilities-i",
     "naam": "Wincasinos.nl",
     "kvk": "65400305",
-    "geldigTot": "25 augustus 2026",
+    "geldigTot": "24 augustus 2036",
     "typeKansspel": "Speelautomaat of speelcasino",
     "vergunningsoort": "Exploitatie speelautomaat"
   },

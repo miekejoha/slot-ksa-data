@@ -1,4 +1,46 @@
 {
-  "verdwenen": [],
-  "nieuw": []
+  "verdwenen": [
+    {
+      "slug": "anema-arum-vof",
+      "naam": "Anema Arum VOF"
+    },
+    {
+      "slug": "aza-kansspelen",
+      "naam": "AZA kansspelen"
+    },
+    {
+      "slug": "diamond-games-b-v",
+      "naam": "Diamond Games B.V."
+    },
+    {
+      "slug": "katwijkse-voetbalvereniging-quick-boys",
+      "naam": "https://loterij.quickboys.nl https://loterijenqb.com/ https://besteloterijqb.com/ https://nieuweqb.com/ https://bestenl.com/ https://topnetherlands.com/ https://newloterij.com/ https://topsloterij.com/"
+    },
+    {
+      "slug": "stichting-richard-krajicek-foundation-2",
+      "naam": "Stichting Richard Krajicek Foundation"
+    }
+  ],
+  "nieuw": [
+    {
+      "slug": "dutch-pinball-museum-b-v-2",
+      "naam": "Café Daniels"
+    },
+    {
+      "slug": "classic-amusement",
+      "naam": "Classic Amusement"
+    },
+    {
+      "slug": "stichting-vergeet-mij-niet-gala",
+      "naam": "Stichting Vergeet Mij Niet Gala"
+    },
+    {
+      "slug": "w-g-r-groep-b-v",
+      "naam": "W.G.R. Groep B.V."
+    },
+    {
+      "slug": "w-j-onnes-holding-b-v",
+      "naam": "W.J. Onnes Holding B.V."
+    }
+  ]
 }
