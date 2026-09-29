@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "date": "2026-09-24",
+  "date": "2026-09-29",
   "rawCount": 537,
   "sha256": {
-    "ksa_actueel.json": "65df260e3915004cf2846e66b6cc8d109cd79430538ae9d56d308bd372fe395b",
+    "ksa_actueel.json": "87f2352079761a01b0e4bab54f41eba634f07efc68049fe7745e95cd2b5b6549",
     "ksa_nieuw.json": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
     "ksa_vervallen.json": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
   }
