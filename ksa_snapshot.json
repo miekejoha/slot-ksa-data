@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "date": "2026-10-07",
-  "rawCount": 536,
+  "date": "2026-10-10",
+  "rawCount": 538,
   "sha256": {
-    "ksa_actueel.json": "48ce97d2ed84c434529f5f3713ad7f62875da736f7fa3ce4893e2e0716df32d7",
-    "ksa_nieuw.json": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+    "ksa_actueel.json": "5a6fbfe626165c3d9b632a3cc6a34f107e91e1f6bad4f83f762950c3b7efb29c",
+    "ksa_nieuw.json": "19ed7eedb36adae752a54cfa868653783575a275794df776ee0b9e6dcba84f01",
     "ksa_vervallen.json": "88ef03085f43ab5cf49dc84b0f2f0bee9b3b737280ddc4542afc291c531c1649"
   }
 }

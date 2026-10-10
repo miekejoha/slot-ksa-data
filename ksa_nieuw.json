@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "naam": "Simply Lucky",
+    "kvk": "42129441",
+    "geldigTot": "7 oktober 2036",
+    "datumConstatering": "2026-10-10"
+  },
+  {
+    "naam": "De Vries Handels B.V.",
+    "kvk": "94022984",
+    "geldigTot": "7 oktober 2036",
+    "datumConstatering": "2026-10-10"
+  }
+]
