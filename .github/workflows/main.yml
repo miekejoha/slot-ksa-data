@@ -1,0 +1,45 @@
+
+name: Dagelijkse KSA-controle
+
+on:
+  schedule:
+    - cron: '0 6 * * *'
+      timezone: Europe/Amsterdam
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ksa-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Repository ophalen
+        uses: actions/checkout@v4
+
+      - name: Python installeren
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Benodigde pakketten installeren
+        run: pip install requests beautifulsoup4
+
+      - name: KSA controleren
+        run: python ksa_update.py
+
+      - name: Gegevens publiceren
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add ksa_actueel.json ksa_nieuw.json ksa_vervallen.json ksa_snapshot.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Automatische KSA update"
+            git push
+          fi
